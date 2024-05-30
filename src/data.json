@@ -1,0 +1,162 @@
+{
+  "header": {
+    "pageName": ["Edu", "cation"],
+    "links": [
+      { "title": "Know Us", "url": "#courses" },
+      { "title": "About", "url": "#about" },
+      { "title": "Features", "url": "#features" },
+      { "title": "Project", "url": "#programs" },
+      { "title": "Users", "url": "#opinion" },
+      {
+        "title": "Blog",
+        "url": "https://natplay.blog.techproperties.es"
+      }
+    ],
+    "button": {
+      "text": "CONTACT US",
+      "url": "#contact"
+    }
+  },
+  "section1": {
+    "title": ["Welcome to", "Natplay", ""],
+    "text": "At the heart of our mission is innovation, education and fun. We are much more than an entertainment company; We are pioneers in the convergence of technology and experiential learning.",
+    "textButton": "JOIN",
+    "images": ["person1.png", "bgHero.png"],
+    "slides": [
+      {
+        "title": "150+",
+        "text": "Total Courses"
+      },
+      {
+        "title": "250",
+        "text": "Total Instructor"
+      },
+      {
+        "title": "35K+",
+        "text": "Total Student"
+      }
+    ]
+  },
+  "section2": {
+    "title": ["Know us", ""],
+    "text": "At Natplay, we stand out for our dedication to educational excellence and passion for environmental conservation.",
+    "cards": [
+      {
+        "id": 1,
+        "icon": "book.png",
+        "title": "Environmental Education",
+        "text": "Natplay is distinguished by its exclusive dedication to education about natural resources. Unlike other gaming companies, our platform is specifically designed to teach users about the importance of conserving the environment and promoting sustainability."
+      },
+      {
+        "id": 2,
+        "icon": "idea.png",
+        "title": "NFT and Digital Art",
+        "text": "We are pioneers in the integration of NFT (Non-Fungible Tokens) and digital art on our platform. This unique feature allows players to obtain and collect digital artwork related to nature and conservation, providing a more immersive and rewarding gaming experience."
+      },
+      {
+        "id": 3,
+        "icon": "leaf.png",
+        "title": "User Experience",
+        "text": "At Natplay, we strive to offer the best possible experience to our users. From an intuitive interface to educational and challenging missions, every aspect of our platform is designed with user convenience and satisfaction in mind."
+      },
+      {
+        "id": 4,
+        "icon": "face.png",
+        "title": "Commitment to Sustainability",
+        "text": "We differentiate ourselves by our commitment to sustainability in all facets of our business. From platform design to our business practices, we strive to minimize our environmental impact and promote eco-friendly practices."
+      },
+      {
+        "id": 5,
+        "icon": "time.png",
+        "title": "Educational Content",
+        "text": "Natplay offers a wide variety of educational content about natural resources, ranging from biodiversity and ecosystems to water conservation and renewable energy. Our platform provides a complete and enriching learning experience for users of all ages and interests."
+      },
+      {
+        "id": 6,
+        "icon": "heart.png",
+        "title": "Education Experts",
+        "text": "We work closely with educators and environmental experts to develop high-quality and relevant educational content. Our strategic alliances allow us to offer up-to-date and accurate information on current environmental challenges and best conservation practices."
+      }
+    ]
+  },
+  "section3": {
+    "title": ["About", "us"],
+    "text": "We are more than an entertainment company. We are visionaries passionate about education and environmental conservation. We are dedicated to offering a unique experience where fun meets meaningful learning.",
+    "videoURL": "https://www.youtube.com/watch?v=ATVGl9wOJsM"
+  },
+  "section4": {
+    "title": ["Why we?"],
+    "text": "We seek to provide an interactive and exciting platform that encourages environmental awareness and positive action.",
+    "cards": [
+      {
+        "id": "01",
+        "text": "Educational and fun gaming experience"
+      },
+      {
+        "id": "02",
+        "text": "Access to exclusive digital art and NFTs"
+      },
+      {
+        "id": "03",
+        "text": "Promotion of environmental awareness"
+      },
+      {
+        "id": "04",
+        "text": "Personalization of the user experience"
+      },
+      {
+        "id": "05",
+        "text": "Contribution to environmental conservation"
+      }
+    ]
+  },
+  "section5": {
+    "title": ["Our", "Projects"],
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.....",
+    "cards": [
+      {
+        "id": 1,
+        "image": "img/NFT-Site_0.jpg",
+        "title": "The Natural Resources Education Game",
+        "text": "An educational gaming experience focused on raising awareness about the importance of responsible management and conservation of natural resources.",
+        "textButton": "MORE INFO"
+      }
+    ]
+  },
+  "section6": {
+    "title": ["What", "our users say?"],
+    "text": "",
+    "cards": [
+      {
+        "text": "Natplay has been an amazing experience for me and my family! We love how it combines the fun of gameplay with valuable lessons about nature and conservation. My kids are learning so much while playing, and I'm excited to see how their interest in environment is growing thanks to this platform. I would definitely recommend Natplay to anyone who wants to learn and have fun at the same time!",
+        "author": "James Thomas",
+        "authorImage": "thomas.png",
+        "location": ""
+      }
+    ]
+  },
+
+  "section7": {
+    "title": ["Contact", "us!"],
+    "text": "Join us on this exciting journey where fun meets meaningful learning. Discover a universe of possibilities in Natplay, where each click brings you one step closer to adventure and knowledge.",
+    "textButton": "Contact us",
+    "email": "education@mail.com"
+  },
+  "footer": {
+    "brand": {
+      "title": "NatPlay",
+      "text": "Explore, learn, protect: Your educational adventure in Natplay."
+    },
+    "about": {
+      "title": "About",
+      "menu": ["About", "Features", "News", "Help"]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "location": "Canarias, Spain",
+      "phone": "202-918-2132",
+      "email": "info@Natplay.com"
+    },
+    "copy": "Copyright © 2024 Natplay."
+  }
+}
