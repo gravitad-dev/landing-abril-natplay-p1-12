@@ -2,7 +2,7 @@ import data from "@/data.json";
 import { Button } from "@/components/ui/button";
 
 function Contact() {
-  const { title, text, email, textButton } = data.section7;
+  const { title, text, email, textButton, url } = data.section7;
   return (
     <section
       id="contact"
@@ -17,13 +17,17 @@ function Contact() {
       </div>
 
       <div className="grid grid-cols-1 ">
+        {/*
         <form
           method="post"
           action={`mailto:${email}?subject=subject&message=message`}
           className="flex justify-center w-full"
-        >
+        ></form>
+        */}
+
+        <a href={url} target="blank_">
           <Button className="">{textButton}</Button>
-        </form>
+        </a>
       </div>
     </section>
   );
